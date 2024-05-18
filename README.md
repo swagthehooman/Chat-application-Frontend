@@ -3,7 +3,7 @@
 ## Designs (Desktop):
 
     1) Login Page
-    ![](./public/design/DialogueBoxLoginPage.jpg)
+    ![](./design/DialogueBoxLoginPage.jpg)
 
     2) Chat Page
     ![](./public/design/DialogueBoxChatPage.jpg)
