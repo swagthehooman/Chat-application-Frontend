@@ -3,10 +3,10 @@
 ## Designs (Desktop):
 
     1) Login Page
-    ![image](./public/design/DialogueBoxLoginPage.jpg)
+    [](./public/design/DialogueBoxLoginPage.jpg)
 
     2) Chat Page
-    ![image](./public/design/DialogueBoxChatPage.jpg)
+    [](./public/design/DialogueBoxChatPage.jpg)
 
 ## Libraries and Framework:
 
